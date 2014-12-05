@@ -1,0 +1,15 @@
+/*first sample */
+
+h1 { 
+    margin: 1em  1em 1em  1em;
+  color: red;
+  padding: 2em 2em 2em 2em;
+}
+
+.foo { color: red;}
+
+
+h2 {
+  border: 1px          solid    blue;
+  margin:         1em     1em;
+}
