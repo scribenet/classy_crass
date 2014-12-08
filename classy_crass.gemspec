@@ -1,5 +1,5 @@
 spec = Gem::Specification.new do |s| 
-  s.name = 'class_crass'
+  s.name = 'classy_crass'
   s.version = '0.0.1'
   s.author = 'Dan Corrigan'
   s.email = 'dcorrigan@scribenet.com'
